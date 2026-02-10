@@ -1,0 +1,7 @@
+.contact-form { max-width: 500px; margin: 0 auto; background: #fff; padding: 30px; border-radius: 10px; }
+.form-group { margin-bottom: 20px; text-align: left; }
+.form-group label { display: block; margin-bottom: 5px; font-weight: 500; }
+.form-group input, .form-group textarea {
+  width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 5px;
+}
+.send-btn { width: 100%; padding: 12px; background: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; }
